@@ -46,6 +46,8 @@ Created a case study on phishing and a prevention checklist to promote safe onli
 
 ---------
 
+## Project report : [Click here to view](Project Report.pdf)
+
 ## Key Learnings
 Importance of digital literacy and online safety
 Building a professional digital presence
