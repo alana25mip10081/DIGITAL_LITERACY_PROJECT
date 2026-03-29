@@ -9,4 +9,4 @@
 2.Kaggle: 
 
 
-![image](./images/Kaggle.jpeg)
+![image](./images/Kaggle.png)
